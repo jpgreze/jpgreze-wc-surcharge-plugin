@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://example.com
+ * @link       https://github.com/jpgreze/jpgreze-wc-surcharge-plugin
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    JPGreze_WC_Surcharge
+ * @subpackage JPGreze_WC_Surcharge/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    JPGreze
+ * @subpackage WooCommerce Surcharge/includes
+ * @author     {Company: "JPGreze Ltd", Contributors: {"Matthew Vahlberg"}}
  */
-class Plugin_Name_Activator {
+class JPGreze_WC_Surcharge_Activator {
 
 	/**
 	 * Short Description. (use period)
@@ -30,7 +30,6 @@ class Plugin_Name_Activator {
 	 * @since    1.0.0
 	 */
 	public static function activate() {
-
 	}
 
 }

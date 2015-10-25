@@ -3,11 +3,11 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       http://example.com
+ * @link       https://github.com/jpgreze/jpgreze-wc-surcharge-plugin
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    JPGreze_WC_Surcharge
+ * @subpackage JPGreze_WC_Surcharge/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's deactivation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    JPGreze_WC_Surcharge
+ * @subpackage JPGreze_WC_Surcharge/includes
+ * @author     {Company: "JPGreze Ltd", Contributors: {"Matthew Vahlberg"}}
  */
-class Plugin_Name_Deactivator {
+class JPGreze_WC_Surcharge_Deactivator {
 
 	/**
 	 * Short Description. (use period)
